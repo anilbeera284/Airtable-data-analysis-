@@ -26,14 +26,14 @@ File Name and Description
    
 🚀 Getting Started
 1. Clone the Repository
-   git clone https://github.com/anilbeera284/Airtable-data-analysis.git
+   git clone [https://github.com/anilbeera284/Airtable-data-analysis.git]
    cd enrollment-data-analysis
-2. Install Dependencies
+3. Install Dependencies
    pip install pandas matplotlib requests
-3. Configure Airtable API
+4. Configure Airtable API
    Open airtable_data_extraction.py
    Replace 'YOUR_API_KEY' and 'YOUR_BASE_ID' with your actual Airtable credentials.
-4. Run Scripts
+5. Run Scripts
    Each script can be executed individually:
    python airtable_data_extraction.py
    python enrollment_quarters.py
