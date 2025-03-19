@@ -26,7 +26,7 @@ File Name and Description
    
 🚀 Getting Started
 1. Clone the Repository
-   git clone https://github.com/yourusername/enrollment-data-analysis.git
+   git clone https://github.com/anilbeera284/enrollment-data-analysis.git
    cd enrollment-data-analysis
 2. Install Dependencies
    pip install pandas matplotlib requests
